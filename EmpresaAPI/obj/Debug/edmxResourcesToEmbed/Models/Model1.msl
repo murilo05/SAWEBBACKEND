@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="empresaModelStoreContainer" CdmEntityContainer="empresaEntities">
+    <EntitySetMapping Name="cargo">
+      <EntityTypeMapping TypeName="empresaModel.cargo">
+        <MappingFragment StoreEntitySet="cargo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="funcionario">
+      <EntityTypeMapping TypeName="empresaModel.funcionario">
+        <MappingFragment StoreEntitySet="funcionario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="idade" ColumnName="idade" />
+          <ScalarProperty Name="id_cargo" ColumnName="id_cargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

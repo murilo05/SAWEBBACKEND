@@ -1,0 +1,196 @@
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EmpresaAPI.dll.config
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EmpresaAPI.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EmpresaAPI.pdb
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csc.exe
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csc.exe.config
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csc.rsp
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csi.exe
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csi.exe.config
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\csi.rsp
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.AppContext.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Console.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\vbc.exe
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\vbc.exe.config
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\vbc.rsp
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Antlr3.Runtime.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EntityFramework.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Newtonsoft.Json.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Helpers.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Mvc.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Optimization.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Razor.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\WebGrease.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EntityFramework.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Newtonsoft.Json.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Helpers.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Mvc.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Optimization.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Razor.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Antlr3.Runtime.pdb
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\obj\Debug\EmpresaAPI.csprojAssemblyReference.cache
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\obj\Debug\EmpresaAPI.csproj.CopyComplete
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\obj\Debug\EmpresaAPI.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\obj\Debug\EmpresaAPI.pdb
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Cors.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.Cors.dll
+C:\Users\murilo\Documents\EmpresaAPI\EmpresaAPI\bin\System.Web.Http.Cors.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\obj\Debug\EmpresaAPI.csprojAssemblyReference.cache
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\obj\Debug\EmpresaAPI.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\obj\Debug\EmpresaAPI.pdb
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EmpresaAPI.dll.config
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EmpresaAPI.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EmpresaAPI.pdb
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csc.exe
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csc.exe.config
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csc.rsp
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csi.exe
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csi.exe.config
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\csi.rsp
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.AppContext.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Console.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\vbc.exe
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\vbc.exe.config
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\vbc.rsp
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Antlr3.Runtime.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EntityFramework.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Newtonsoft.Json.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Cors.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Helpers.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.Cors.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Mvc.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Optimization.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Razor.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\WebGrease.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EntityFramework.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.Cors.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Newtonsoft.Json.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Helpers.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Mvc.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Optimization.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.Razor.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Antlr3.Runtime.pdb
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\murilo\Documents\EmpresaAPI Novo\EmpresaAPI\obj\Debug\EmpresaAPI.csproj.CopyComplete
